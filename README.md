@@ -21,6 +21,6 @@ CCML: Curriculum and Contrastive Learning Enhanced Meta-Learner for Spatial Pers
 * The preprocessed data is uploaded in the folder ./data
 
 # Usage
-* Preprocess original data. (If you want to use other dataset, please preprocess the dataset into the data format under the folder data.)
+* Preprocess original data. (Please preprocess any alternative dataset into the specified data format within the data folder)
 * Run main.py
 * Adjust the hyperparameters and strategies according to the needs
